@@ -1,5 +1,4 @@
-
-  :root {
+ :root {
     --penguin-size: 200px;
     --penguin-skin: gray;
     --penguin-belly: white;
@@ -216,4 +215,3 @@
       
     }
     * { color:#228B22; text-decoration: bold;}
-</style>
